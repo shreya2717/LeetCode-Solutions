@@ -14,6 +14,7 @@ My leetcode problem solution in c++
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -30,6 +31,7 @@ My leetcode problem solution in c++
 ## Dynamic Programming
 |  |
 | ------- |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ My leetcode problem solution in c++
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,12 +106,19 @@ My leetcode problem solution in c++
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
