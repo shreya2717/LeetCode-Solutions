@@ -9,6 +9,7 @@ My leetcode problem solution in c++
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1288-remove-covered-intervals](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,6 +86,7 @@ My leetcode problem solution in c++
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
