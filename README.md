@@ -24,6 +24,7 @@ My leetcode problem solution in c++
 | ------- |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
