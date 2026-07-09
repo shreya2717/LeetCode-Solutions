@@ -38,6 +38,7 @@ My leetcode problem solution in c++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -99,6 +100,7 @@ My leetcode problem solution in c++
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
