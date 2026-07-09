@@ -6,6 +6,7 @@ My leetcode problem solution in c++
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -51,6 +52,7 @@ My leetcode problem solution in c++
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
