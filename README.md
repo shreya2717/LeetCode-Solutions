@@ -10,6 +10,7 @@ My leetcode problem solution in c++
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1260-shift-2d-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@ My leetcode problem solution in c++
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -186,6 +188,7 @@ My leetcode problem solution in c++
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
