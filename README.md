@@ -9,6 +9,7 @@ My leetcode problem solution in c++
 | [0041-first-missing-positive](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0486-predict-the-winner](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1260-shift-2d-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -36,6 +37,7 @@ My leetcode problem solution in c++
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -62,6 +64,7 @@ My leetcode problem solution in c++
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0486-predict-the-winner](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -245,4 +248,12 @@ My leetcode problem solution in c++
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
