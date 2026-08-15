@@ -35,6 +35,7 @@ My leetcode problem solution in c++
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -278,6 +279,7 @@ My leetcode problem solution in c++
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
 | ------- |
