@@ -3,14 +3,16 @@ public:
     bool uniformArray(vector<int>& nums1) {
         int mn = *min_element(nums1.begin(), nums1.end());
 
-        // If minimum is odd, we can make all numbers odd
+        // Minimum is odd:
+        // every even number can subtract mn and become odd.
         if (mn % 2 == 1) {
             return true;
         }
 
-        // If minimum is even, all numbers must already be even
+        // Minimum is even:
+        // therefore all numbers must already be even.
         for (int x : nums1) {
-            if (x % 2 != 0) {
+            if (x % 2 == 1) {
                 return false;
             }
         }
