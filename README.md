@@ -6,6 +6,7 @@ My leetcode problem solution in c++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -150,6 +151,7 @@ My leetcode problem solution in c++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
