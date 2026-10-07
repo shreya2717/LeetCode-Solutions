@@ -276,6 +276,7 @@ My leetcode problem solution in c++
 | [0032-longest-valid-parentheses](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -317,6 +318,7 @@ My leetcode problem solution in c++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shreya2717/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -461,6 +463,7 @@ My leetcode problem solution in c++
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shreya2717/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
