@@ -91,6 +91,7 @@ My leetcode problem solution in c++
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ My leetcode problem solution in c++
 | [3665-twisted-mirror-path-count](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -323,6 +325,7 @@ My leetcode problem solution in c++
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shreya2717/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
